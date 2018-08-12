@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short description" max_length="1000" name="short_descriptions" type="string"/>
     </element>
 </database>
